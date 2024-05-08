@@ -1,101 +1,101 @@
-product,price,amount
-Ära Stor,205,9
-Harmonisk Mjuka Fisk,267,7
-Glad Kåt,23,62
-Gård,311,2
-Kok Ära,992,13
-Död Lantlig,366,49
-Fot Bak,636,18
-Dum Vit,776,65
-Mjuk Rosa,797,7
-Eklektisk Bak,272,9
-Orange,687,63
-Kort Ära,839,2
-Björn Tid Rum,673,67
-Äpple Bär,298,27
-Gul Nöd,773,17
-Våt,431,98
-Hus Mjuk,74,51
-Lyxig,169,7
-Tidlös Äng,590,17
-Mjölk Sak,903,3
-Äpple,884,60
-Gås Björn,89,71
-Gås Säng,784,94
-Industriell Väg Tor,515,83
-Sväva,402,66
-Stig,57,1
-Hylla,341,92
-Värde,47,62
-Glad Blå Näsa,807,31
-Öl,665,32
-Tåg Rosa Avskalad,836,46
-Värk Guld,473,76
-Ära,68,71
-Frida Sol Blå,89,11
-Öra Svart,432,59
-Nöjd,245,57
-Lur Stor Sorg,50,44
-Dum Rum,346,48
-Röd Skor,868,12
-Färgglad För,810,77
-Hus Rum Stor,196,59
-Nedtonad,755,4
-Väg,175,75
-Död Randig,793,54
-Mångfasetterad Trendig Grön,909,32
-Mångfasetterad Orange Ärm,90,24
-Ögon Trendig Säng,482,4
-Dag Modern Lätt,685,83
-Glad,978,98
-Ägg Natt Tid,503,55
-Förnya,65,82
-Vitt Mån Skräp,275,61
-Kost,542,76
-Tråd Hav Öl,48,100
-Lättanvänd Gul Få,237,74
-Mörk Fön,723,100
-Stor Harmonisk God,632,19
-Grön,480,58
-Hus,522,54
-Mjölk,998,76
-Ljus Tass Söt,648,72
-Ko,558,97
-Lax,875,58
-Fåg,84,73
-Väg,546,85
-Tåg,975,7
-Blå,825,27
-Ris Natt Lång,30,67
-Tidlös Snygg,96,94
-Kok,715,62
-Stol,111,65
-Lätt Tår Äpple,485,9
-Lantlig Bär Öra,308,67
-Grön Ägg,796,14
-Öl Ord,731,71
-Tak Röd,184,64
-Lätt,802,27
-Brun,423,40
-Mjölk Lek,299,61
-Öl Tor Sval,860,44
-Sol Tår Lur,17,87
-Gul Gul,54,49
-Kök,926,13
-Hav Grå,471,32
-Enastående Effektiv Guld,25,86
-Guld,915,8
-Kål Ris,334,61
-Ord,791,87
-Sak Grå,58,24
-Fåg Stor Väg,465,3
-Stor Kärn,818,99
-Blå,574,66
-Svart,421,19
-Eklektisk Ört,252,94
-Nordisk,521,93
-Snygg Tåg,945,53
-Gård Röd Tor,715,18
-Stadig Tor Liten,216,39
-Tak,986,89
-Kok Kok,273,19
+product,Manufacturer,price,amount
+Kär Glad,Koelpin Ltd,766,99
+Ko,Koelpin-Schinner,661,35
+Glad,"Friesen, Weber and Wolff",361,10
+Tråd,Miller-Zieme,235,26
+Enastående Lås Lax,Bednar-Abernathy,103,100
+Näsa Vackra Mjuk,Hammes LLC,89,75
+Hemtrevlig Rum,Altenwerth and Sons,252,52
+Rum,"Heaney, Hermiston and Paucek",534,12
+Ris Öga Skor,Kuhlman Group,968,45
+Tak Guld,Johnson-Greenfelder,114,99
+Stor Blå,"Wuckert, Kessler and Borer",151,56
+Praktisk Väg Vedra,Hammes-Simonis,358,64
+Guld Avskalad,"Romaguera, Baumbach and Cremin",946,12
+Kalla Effektiv Borsta,"Hagenes, Stokes and Larson",439,62
+Näsa Mjölk,Turner Inc,888,80
+Stor,Bogan-Schinner,308,13
+Gul Skor Lätt,"Farrell, Kuhlman and Zboncak",248,33
+Beige,"Ward, Metz and Padberg",882,60
+Kål Ljus,Bernhard PLC,780,92
+Glad,Krajcik-McLaughlin,911,14
+Ris Öra,Dooley-Carter,998,79
+Boll Lätt,Blick LLC,100,60
+Fjäder Tak Vedra,"Lindgren, Gorczany and Kub",431,66
+Äpple Stol,"Bogisich, Bernhard and Baumbach",386,65
+Mjuk,Hartmann-Strosin,54,8
+Äpple Ögon Tår,Witting-Fritsch,233,3
+Svår Vit Orange,"Schneider, Sanford and Howe",311,91
+Svag Duvra Rum,"O'Kon, Hintz and Mohr",338,49
+Nöjd Flexibel,Douglas-Schneider,475,50
+Skor Sval,Kris-Wiza,975,33
+Död,Prohaska-Weber,886,2
+Kärn,Klein-Koelpin,643,84
+Hav Tass Enkel,Upton and Sons,331,13
+Hav,Robel-Towne,17,27
+Ära Lång,Schoen Ltd,868,32
+Ärm Sol Skräp,Berge Ltd,570,64
+Vackra,Lynch-Balistreri,785,50
+Randig God,Kerluke-Donnelly,916,2
+Ärm Följa Stor,Sipes Group,473,4
+Stol Randig Ord,Considine Inc,752,56
+Stilren Fot,"Wiegand, Cummings and Ebert",671,74
+Fön,"Weimann, Gaylord and Kozey",559,13
+Lätt Kort Tuff,"Oberbrunner, Parker and Bergnaum",316,62
+Tjocka Tid Kär,"Kling, McClure and Pfannerstill",779,32
+Näsa,Reynolds-Sanford,83,26
+Sol,"Torp, Greenfelder and O'Conner",572,31
+Fjäder Sorg,Kovacek-Ebert,505,50
+Hylla Tak Lekfull,Wilderman Inc,407,56
+Rumslig Praktisk Sol,Brakus LLC,897,48
+Natt Kan Lek,Orn-Hodkiewicz,831,75
+Lur Fön Kål,Stark-Koch,101,65
+Blå,"Crooks, Zboncak and Cassin",935,69
+Vit,Sporer-Monahan,765,93
+Lås Svart Boll,Huel and Sons,417,25
+Brun,Quigley PLC,340,42
+Harmonisk Glad,"Dare, Lakin and Powlowski",885,88
+Rydda Björn,Harber-Schroeder,670,1
+Dum,"Goldner, Stracke and Stark",744,8
+Enastående Lila Glova,"Little, Heidenreich and Lebsack",24,15
+Öl Sval Brun,Bogan-Dickens,428,22
+Rum Borsta,"Hermann, Kreiger and Carroll",921,37
+Hav Skräp Bär,Swaniawski PLC,772,50
+Död,Kuvalis-Bednar,755,84
+Tåg Själva Effektiv,Farrell Inc,314,69
+Glad Elegant Rutig,"Murphy, Ziemann and Douglas",840,32
+Äta Ko,Hintz-Greenholt,723,1
+Nordisk,Schowalter Ltd,881,5
+Sak Snygg Kok,"Robel, Will and Lakin",631,99
+Kost Fisk Snöra,"Braun, Blick and Fahey",679,9
+Kort Fot God,"Friesen, Predovic and Kuhn",557,57
+Svårslagen Skandinavisk,Reichert-Hoppe,15,30
+Gås,Veum-DuBuque,675,26
+Guld Sol Mån,Prohaska Ltd,213,64
+Fisk,"Harris, Fritsch and Nolan",110,83
+Hållbar,Maggio-Cummerata,172,77
+Kort Nedtonad Natt,"Romaguera, Erdman and Gerlach",301,21
+Sko Lantlig,Upton Group,218,62
+Borsta Äpple,Runolfsson-Leuschke,792,95
+Måne Snygg Ägg,Eichmann-Lebsack,387,14
+Topp,"Carroll, Daugherty and Erdman",680,51
+Sol,Blick-Heller,288,24
+Äng,McCullough-Tremblay,293,10
+Tak Ära Tun,Shields and Sons,784,6
+Smidig Ört,"Huel, Ward and Buckridge",438,79
+Bord Svag,"Ledner, Dooley and Cassin",62,74
+Ombonad,"Doyle, Botsford and Kautzer",243,58
+Få Stor,"Pfeffer, Hegmann and Crist",505,61
+Mån,"Bergnaum, Sanford and Raynor",595,31
+Fjäder Mån,"Aufderhar, Farrell and Ebert",327,0
+Bär Ris,Wunsch Group,159,62
+Tak Dukt,Denesik-Kautzer,189,98
+Våt Röd,Collier-Lubowitz,650,33
+Mjölk Kall Tid,"Schinner, Shields and Breitenberg",909,47
+Hemtrevlig Stig,Botsford-Green,166,53
+Gås,Mitchell Inc,954,58
+Orange Ord Rydda,Kohler Ltd,740,1
+Innovativ Mörk Rutig,King-Hand,511,73
+Ört,"Balistreri, Reichel and Powlowski",889,21
+Enkel Bak Ägg,Koss and Sons,576,72
+Svår Kok Tysta,Funk-Wunsch,812,7
